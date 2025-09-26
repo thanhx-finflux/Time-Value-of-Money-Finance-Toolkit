@@ -44,10 +44,11 @@ irr_value = irr([initial_investment] + cash_flows)
 print(f'Internal Rate of Return (IRR) of Bond Investment: {irr_value:.2%}')
 
 ```
-- Net Present Value (NPV) of Stock Investment: -8764.89
-- Internal Rate of Return (IRR) of Stock Investment: 1.26%
-- Net Present Value (NPV) of Bond Investment: -36.61
-- Internal Rate of Return (IRR) of Bond Investment: 3.32%
+
+    Net Present Value (NPV) of Stock Investment: -8764.89
+    Internal Rate of Return (IRR) of Stock Investment: 1.26%
+    Net Present Value (NPV) of Bond Investment: -36.61
+    Internal Rate of Return (IRR) of Bond Investment: 3.32%
 
 ```python
 # Loan Amortization
