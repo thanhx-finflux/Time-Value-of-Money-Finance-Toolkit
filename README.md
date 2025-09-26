@@ -50,6 +50,9 @@ print(f'Internal Rate of Return (IRR) of Bond Investment: {irr_value:.2%}')
     Net Present Value (NPV) of Bond Investment: -36.61
     Internal Rate of Return (IRR) of Bond Investment: 3.32%
 
+    The results of NPV and IRR calculations for both stock and bond investments indicate that the bond investment is more favorable. The stock investment has a significantly negative NPV of -8764.89, suggesting that it is expected to result in a substantial loss over the investment period. Its IRR of 1.26% is also quite low, indicating limited profitability.
+
+    In contrast, the bond investment has a much smaller negative NPV of -36.61, which is close to breaking even, and a higher IRR of 3.32%. This suggests that the bond investment is expected to perform better than the stock investment, making it a more attractive option for investors seeking lower risk and more stable returns.
 ```python
 # Loan Amortization
 principal = 10000  # Loan amount
